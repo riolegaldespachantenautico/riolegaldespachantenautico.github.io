@@ -296,3 +296,8 @@ body {
         flex-direction: column;
     }
 }
+
+.link{
+    color: var(--primary);
+    text-decoration: none;
+}
